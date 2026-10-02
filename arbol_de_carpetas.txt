@@ -1,0 +1,14 @@
+.
+./README.md
+./datos
+./datos/productos.csv
+./evidencias
+./evidencias/arbol_de_carpetas.txt
+./evidencias/caso1_2_ejecucion_correcta_P003.txt
+./evidencias/caso3_codigo_inexistente.txt
+./evidencias/caso4_precio_invalido.txt
+./evidencias/caso5_ruta_incorrecta.txt
+./main.cpp
+./main.txt
+./reportes
+./reportes/resumen.txt

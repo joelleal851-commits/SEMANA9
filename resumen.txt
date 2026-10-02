@@ -1,0 +1,4 @@
+Total de registros validos:   5
+Total de registros invalidos: 3
+Valor total del inventario:   Q7179.00
+Resultado de la busqueda:     ENCONTRADO -> P003 | Monitor 24 | Q1150.00 | existencia: 3

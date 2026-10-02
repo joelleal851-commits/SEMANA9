@@ -1,0 +1,8 @@
+$ ./inventario
+Linea 7 invalida: codigo vacio
+Linea 8 invalida: precio o existencia no numericos
+Linea 9 invalida: existencia invalida
+Validos: 5 | Invalidos: 3 | Valor del inventario: Q7179.00
+Ingrese el codigo a buscar: ENCONTRADO -> P003 | Monitor 24 | Q1150.00 | existencia: 3
+Reporte generado en reportes/resumen.txt
+(codigo de salida: 0)

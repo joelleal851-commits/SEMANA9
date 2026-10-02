@@ -1,0 +1,3 @@
+$ ./inventario datos/no_existe.csv
+ERROR: no se pudo abrir el archivo 'datos/no_existe.csv'
+(codigo de salida: 1)
